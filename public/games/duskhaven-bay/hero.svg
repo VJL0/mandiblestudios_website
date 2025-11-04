@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="bayGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111827" />
+      <stop offset="45%" stop-color="#1f2d55" />
+      <stop offset="100%" stop-color="#4c5b9b" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bayGradient)" />
+  <path d="M0 640 Q200 610 360 660 T720 648 Q900 630 1200 680 V900 H0 Z" fill="#0b1728" opacity="0.75" />
+  <path d="M0 700 Q260 660 480 700 T960 692 Q1080 684 1200 720 V900 H0 Z" fill="#08101f" opacity="0.85" />
+  <g fill="#8da6ff" opacity="0.35">
+    <rect x="180" y="260" width="40" height="200" />
+    <rect x="240" y="300" width="36" height="160" />
+    <rect x="300" y="240" width="48" height="220" />
+    <rect x="960" y="260" width="42" height="190" />
+    <rect x="1020" y="280" width="34" height="170" />
+    <rect x="1080" y="240" width="50" height="210" />
+  </g>
+  <rect x="0" y="0" width="1200" height="900" fill="url(#bayGradient)" opacity="0.15" />
+  <text x="80" y="180" fill="#f8fafc" font-family="Arial, sans-serif" font-size="72" font-weight="bold">
+    Duskhaven Bay
+  </text>
+  <text x="80" y="240" fill="#cbd5f5" font-family="Arial, sans-serif" font-size="28">
+    Flooded mysteries across Philadelphia&apos;s last harbor
+  </text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="dockGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#2d3f7c" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#dockGradient)" />
+  <g fill="#22355f">
+    <rect x="0" y="420" width="800" height="180" opacity="0.7" />
+    <rect x="100" y="360" width="90" height="120" />
+    <rect x="650" y="370" width="80" height="110" />
+  </g>
+  <line x1="80" y1="340" x2="720" y2="340" stroke="#4c5b9b" stroke-width="6" stroke-linecap="round" />
+  <circle cx="200" cy="180" r="14" fill="#f8fafc" opacity="0.6" />
+  <circle cx="340" cy="140" r="18" fill="#e0e7ff" opacity="0.4" />
+  <circle cx="520" cy="160" r="16" fill="#e0e7ff" opacity="0.35" />
+  <text x="60" y="120" fill="#e0e7ff" font-family="Arial, sans-serif" font-size="54" font-weight="bold">
+    Floating Markets
+  </text>
+  <text x="60" y="176" fill="#cbd5f5" font-family="Arial, sans-serif" font-size="24">
+    Elevated walkways buzzing with lantern light
+  </text>
+</svg>

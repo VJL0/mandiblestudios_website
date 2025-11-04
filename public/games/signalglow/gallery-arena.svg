@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#180118" />
+  <circle cx="400" cy="300" r="240" fill="#33072f" opacity="0.8" />
+  <circle cx="400" cy="300" r="180" fill="#f26d9f" opacity="0.25" />
+  <circle cx="400" cy="300" r="120" fill="#fee2f2" opacity="0.2" />
+  <g stroke="#f26d9f" stroke-width="8" stroke-linecap="round">
+    <path d="M160 300 H640" opacity="0.5" />
+    <path d="M400 120 V480" opacity="0.5" />
+  </g>
+  <g stroke="#fdf2f8" stroke-width="4" stroke-dasharray="12 10" opacity="0.6">
+    <path d="M200 180 C280 260 520 260 600 180" />
+    <path d="M200 420 C280 340 520 340 600 420" />
+  </g>
+  <text x="80" y="120" fill="#fdf2f8" font-family="Arial, sans-serif" font-size="50" font-weight="bold">
+    Arena Remix
+  </text>
+  <text x="80" y="170" fill="#fbcfe8" font-family="Arial, sans-serif" font-size="24">
+    Modulate towers to bend the arena to your rhythm
+  </text>
+</svg>

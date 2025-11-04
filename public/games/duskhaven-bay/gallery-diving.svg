@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <radialGradient id="divingGradient" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#4c5b9b" />
+      <stop offset="60%" stop-color="#1f2a49" />
+      <stop offset="100%" stop-color="#0b1220" />
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#divingGradient)" />
+  <ellipse cx="400" cy="360" rx="240" ry="100" fill="#030712" opacity="0.6" />
+  <g fill="#94a3ff" opacity="0.4">
+    <circle cx="240" cy="220" r="16" />
+    <circle cx="300" cy="200" r="10" />
+    <circle cx="360" cy="180" r="8" />
+    <circle cx="420" cy="160" r="12" />
+    <circle cx="520" cy="200" r="14" />
+    <circle cx="580" cy="240" r="10" />
+  </g>
+  <path
+    d="M360 420 C360 360 420 280 460 240 C500 200 560 200 560 260 C560 320 500 400 460 440 C420 480 360 480 360 420 Z"
+    fill="#1e40af" opacity="0.4"
+  />
+  <text x="80" y="104" fill="#f8fafc" font-family="Arial, sans-serif" font-size="52" font-weight="bold">
+    Dive the Wreckage
+  </text>
+  <text x="80" y="156" fill="#cbd5f5" font-family="Arial, sans-serif" font-size="24">
+    Salvage gear to uncover clues beneath the tide
+  </text>
+</svg>

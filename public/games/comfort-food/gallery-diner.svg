@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#7c2d12" />
+  <rect x="80" y="160" width="640" height="320" rx="36" fill="#fef3c7" opacity="0.2" />
+  <g fill="#f97316" opacity="0.65">
+    <rect x="140" y="360" width="160" height="80" rx="20" />
+    <rect x="500" y="360" width="160" height="80" rx="20" />
+  </g>
+  <rect x="280" y="200" width="240" height="160" rx="24" fill="#fde68a" opacity="0.5" />
+  <line x1="120" y1="320" x2="680" y2="320" stroke="#f5a35a" stroke-width="6" stroke-linecap="round" />
+  <text x="100" y="120" fill="#fff7ed" font-family="Arial, sans-serif" font-size="54" font-weight="bold">
+    The Corner Booth
+  </text>
+  <text x="100" y="170" fill="#fef3c7" font-family="Arial, sans-serif" font-size="24">
+    Customize the diner vibe from lighting to decor
+  </text>
+</svg>
