@@ -2,7 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { GameDetail } from "@/components/GameDetail";
 import { games, getGameBySlug } from "@/data/games";
-import Nav from "@/components/Nav";
+import Nav from "@/components/Breadcrumbs";
 
 export async function generateStaticParams() {
   return games.map((game) => ({
